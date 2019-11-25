@@ -97,7 +97,7 @@ end
           :languages => ["C"]
         }
      }
-     programmer_hash["Alan Kay"][]
+     programmer_hash["Alan Kay"][:languages]
      
      
 end
