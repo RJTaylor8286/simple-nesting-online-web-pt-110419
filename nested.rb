@@ -97,12 +97,11 @@ end
           :languages => ["C"]
         }
      }
-     programmer_hash["Alan Kay"][:known_for]
+     programmer_hash["Alan Kay"][:known_for] << "GUI"
      
      
 end
 
-def adding_to_dennis
 	programmer_hash = 
  		{
         :grace_hopper => {
