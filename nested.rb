@@ -82,7 +82,6 @@ programmer_hash =
     
 end
 
-def changing_alan
 	programmer_hash = 
  		{
         :grace_hopper => {
